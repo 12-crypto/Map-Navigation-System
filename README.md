@@ -10,7 +10,7 @@ The project consists of a small predefined map of nodes built using C graphics. 
 
 The project is based on dijkstra algorithm to find the shortest path between nodes.
 
-# HOW TO RUN:
+## HOW TO RUN:
 Codeblocks IDE was used to run this project. It already has C++ support but C graphics library needs to be added and set up additionally.
 Reference video to install C graphics in Codeblocks - https://www.youtube.com/watch?v=fWmis4uVCHg
 
