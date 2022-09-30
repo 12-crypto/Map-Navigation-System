@@ -1,4 +1,4 @@
-# map-navigation-system
+# Map-Navigation-System
 
  A simple map navigation system using C++ and C graphics.
 
