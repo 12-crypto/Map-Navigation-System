@@ -1,6 +1,6 @@
 # map-navigation-system
 
- simple map navigation system using C++ and C graphics.
+ A simple map navigation system using C++ and C graphics.
 
 The project consists of a small predefined map of nodes built using C graphics. These nodes act as source and destination points for the user. Let's have a look at the user experience:
 
